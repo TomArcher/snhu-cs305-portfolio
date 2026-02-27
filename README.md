@@ -1,12 +1,12 @@
-# SNHU CS-305-10473-M01 Software Security
+# SNHU CS-305 Software Security Portfolio
 
-This repo houses some of my CS-305 projects, including:
+This repo houses my CS-305 projects as well as Q&A covering the course and what I learned.
 
 ## Projects
 
 - [Artemis Financial Practices for Secure Software Report (Project Two)](CS%20305%20Project%20Two%20-%20Thomas%20Archer.docx)
 
-## Questions and Answers
+## Questions & Answers
 
 **Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?**
 
