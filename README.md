@@ -2,7 +2,7 @@
 
 This repo houses some of my CS-305 projects, including:
 
-## Key Links
+## Projects
 
 - [Artemis Financial Practices for Secure Software Report (Project Two)](CS%20305%20Project%20Two%20-%20Thomas%20Archer.docx)
 
