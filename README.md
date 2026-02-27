@@ -1,8 +1,8 @@
 # SNHU CS-305 Software Security Portfolio
 
-This repo houses my CS-305 projects as well as Q&A covering the course and what I learned.
+This repo houses my CS-305 project (key documents and Q&A covering the course and what I learned).
 
-## Projects
+## Documents
 
 - [Artemis Financial Practices for Secure Software Report (Project Two)](CS%20305%20Project%20Two%20-%20Thomas%20Archer.docx)
 
